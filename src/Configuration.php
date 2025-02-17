@@ -97,6 +97,7 @@ final class Configuration implements ConfigurationBuilderInterface, Configuratio
             throw new UnknownOptionException($ex ->getMessage(), $key, (int) $ex->getCode(), $ex);
         }
     }
+    
     /**
      * {@inheritDoc}
      *
