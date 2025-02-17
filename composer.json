@@ -1,5 +1,5 @@
 {
-	"name": "mac/dummy-package-sprint3",
+	"name": "hamzamac/dummy-package-sprint3",
 	"description": "Dummy package for testing purpose, don't use it",
 	"type": "library",
 	"autoload": {
