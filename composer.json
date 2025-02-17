@@ -1,0 +1,17 @@
+{
+	"name": "mac/dummy-package-sprint3",
+	"description": "Dummy package for testing purpose, don't use it",
+	"type": "library",
+	"autoload": {
+		"psr-4": {
+			"Mac\\DummyPackageSprint3\\": "src/"
+		}
+	},
+	"authors": [
+		{
+			"name": "hamza massir",
+			"email": "h.massir@void.fr"
+		}
+	],
+	"require": {}
+}
