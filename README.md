@@ -1,4 +1,3 @@
-````markdown
 # My Dummy Package
 
 **This package should not be used; it is for testing purposes only.**
@@ -18,12 +17,7 @@ To include this package in your project, you can use Composer:
 ```bash
 composer require your-vendor/my-dummy-package
 ```
-````
 
 ## License
 
 This package is open-sourced software licensed under the [MIT license](LICENSE).
-
-```
-
-```
